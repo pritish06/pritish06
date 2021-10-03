@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pritish06
+- 👋 Hi, I’m Pritish Vaity
 - 👀 I’m interested in RPA and BI Analytics
 - 🌱 I’m currently learning UIPath, Power Automate and Tableau 
 - 📫 How to reach me at pritish2219@gmail.com
